@@ -8,3 +8,5 @@ Campbell, A.J., Vitale, V., Brotons-Gisbert, M. et al. The interplay of field-tu
 
 ### Funding:
 This project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no. 101067977
+
+[![DOI](https://zenodo.org/badge/874270734.svg)](https://doi.org/10.5281/zenodo.13961254)

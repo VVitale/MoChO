@@ -8,7 +8,7 @@
    \/_/ \/_/\/___/  \/___/   \/_/\/_/\/_____/
 
 ```
-MATLAB code to generate charge-ordered states in moiré materials, based on a classical Montecarlo algorithm
+MATLAB code to generate charge-ordered states in moiré materials, based on a classical Monte Carlo algorithm
 
 In publications arising from using this code
 
